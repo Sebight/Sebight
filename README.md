@@ -1,4 +1,6 @@
 "They wanted heaven from me, I gave them hell."
+![obrazek](https://user-images.githubusercontent.com/59232422/156648956-90b5fa22-2b3b-43fa-a344-59617b8e57ab.png)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebight&count_private=true&show_icons=true&theme=radical)
