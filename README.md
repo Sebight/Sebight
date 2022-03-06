@@ -1,4 +1,4 @@
-"They wanted heaven from me, I gave them hell."
+"I gotta go so much bigger, so everbody's proud of me."
 ![obrazek](https://user-images.githubusercontent.com/59232422/156649495-b2488903-9bab-42cc-8762-67f82b218b4e.png)
 
 
