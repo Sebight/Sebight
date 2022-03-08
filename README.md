@@ -1,5 +1,5 @@
 "I gotta go so much bigger, so everbody's proud of me."
-<img src="https://user-images.githubusercontent.com/59232422/156649495-b2488903-9bab-42cc-8762-67f82b218b4e.png" width="200" height="100" />
+<img src="https://user-images.githubusercontent.com/59232422/156649495-b2488903-9bab-42cc-8762-67f82b218b4e.png" width="600" height="500" />
 
 
 
