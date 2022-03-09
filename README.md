@@ -1,7 +1,7 @@
-"I gotta go so much bigger, so everbody's proud of me."[
+"I gotta go so much bigger, so everbody's proud of me."
 
 
-Hackerrank](https://www.hackerrank.com/sebight)
+[My Hackerrank](https://www.hackerrank.com/sebight)
 
 .
 .
