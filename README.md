@@ -1,6 +1,6 @@
 "I gotta go so much bigger, so everbody's proud of me."[
-
-My Hackerrank](url="https://www.hackerrank.com/sebight")
+[
+Hackerrank](url)
 
 .
 .
