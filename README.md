@@ -1,6 +1,7 @@
 "I gotta go so much bigger, so everbody's proud of me."
 
-I like working on stuff and writing code. Software Developer. C#, JavaScript
+I like working on stuff and writing code. Software Developer. C#, JavaScript.
+
 [My Hackerrank](https://www.hackerrank.com/sebight)
 
 .
