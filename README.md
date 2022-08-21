@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **all the depths of Unity and how to evolve as a programmer.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sebight?tab=repositories](https://github.com/Sebight?tab=repositories) and soon on my [portfolio](https://sebight.eu).
+- 👨‍💻 All of my projects are available at [my public repos page](https://github.com/Sebight?tab=repositories) or on my [portfolio](https://sebight.eu).
 
 - 💬 Ask me about **Unity, C#, JS.**
 
