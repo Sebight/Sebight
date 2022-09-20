@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **seb@sebight.eu.**
 
-- ⚡ Fun fact **I like listening to nice music!**
+- ⚡ Fun fact **I like listening to nice music and playing video-games!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
