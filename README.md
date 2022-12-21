@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebight&label=Profile%20views&color=0e75b6&style=flat" alt="sebight" /> </p>
 
-- 🔭 I’m currently working on **a lot of soon-to-be opensource projects.**
+- 🔭 I’m currently working on **developing my skills in many different ways.**
 
 - 🌱 I’m currently learning **all the depths of Unity and how to evolve as a programmer.**
 
