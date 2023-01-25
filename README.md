@@ -2,6 +2,7 @@
 <h3 align="center">Software Engineer, specializing in Unity and C#.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebight&label=Profile%20views&color=0e75b6&style=flat" alt="sebight" /> </p>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sebight)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on **developing my skills in many different ways.**
 
