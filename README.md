@@ -2,6 +2,7 @@
 <h3 align="center">Software Engineer, specializing in Unity and C#.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebight&label=Profile%20views&color=0e75b6&style=flat" alt="sebight" /> </p>
+
 [![wakatime](https://wakatime.com/badge/user/9ca3b6df-781b-4c63-9148-699f632500ef.svg)](https://wakatime.com/@9ca3b6df-781b-4c63-9148-699f632500ef)
 
 - 🔭 I’m currently working on **developing my skills in many different ways.**
